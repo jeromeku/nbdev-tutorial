@@ -17,13 +17,8 @@ say_hello("Jerome")
 ```
 
 
-    ---------------------------------------------------------------------------
 
-    NameError                                 Traceback (most recent call last)
 
-    <ipython-input-1-fec278ec9ace> in <module>
-    ----> 1 say_hello("Jerome")
-    
+    'Hello Jerome!'
 
-    NameError: name 'say_hello' is not defined
 
